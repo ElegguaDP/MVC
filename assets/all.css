@@ -1,0 +1,39 @@
+.clear {
+    clear: both;
+    padding-top: 15px;
+}
+
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
+
+.input-text{
+    width: 250px;
+}
+
+.input-textarea{
+    width: 250px;
+}
+
+.form{
+    width: 500px;
+}
+
+.error {
+    font-size: 10px;
+    color: red;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
